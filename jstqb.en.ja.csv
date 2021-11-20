@@ -1,0 +1,646 @@
+isolation testing,アイソレーションテスト
+item transmittal report,アイテム送付レポート
+accessibility testing,アクセシビリティテスト
+action word driven testing,アクションワード駆動テスト
+arc testing,アークテスト
+agile testing,アジャイルテスト
+ad hoc testing,アドホックテスト
+ad hoc review,アドホックレビュー
+analyzer,アナライザ
+FALSE-pass result,誤った合格結果
+FALSE-fail result,誤った失敗結果
+mistake,誤り
+algorithm test [TMap],アルゴリズムテスト
+alpha testing,アルファテスト
+safety,安全性
+safety testing,安全性テスト
+stability,安定性
+migration testing,移行テスト
+portability,移植性
+portability testing,移植性テスト
+consistency,一貫性
+incremental development model,インクリメンタル開発モデル
+incremental testing,インクリメンタルテスト
+incident,インシデント
+incident management tool,インシデント管理ツール
+incident management,インシデントマネジメント
+incident report,インシデントレポート
+Incident logging,インシデントログ
+instrumenter,インスツルメンタ
+instrumentation,インスツルメンテーション
+installability,インストーラビリティ
+installability testing,インストーラビリティテスト
+installation wizard,インストールウィザード
+installation guide,インストールガイド
+inspection,インスペクション
+inspection leader,インスペクションリーダ
+inspector,インスペクタ
+interface testing,インターフェーステスト
+intake test,インテークテスト
+invalid testing,インバリッドテスト
+walkthrough,ウォークスルー
+acceptance,受け入れ
+acceptance criteria,受け入れ基準
+acceptance testing,受け入れテスト
+operational acceptance testing,運用受け入れテスト
+operational testing,運用テスト
+operational profile,運用プロファイル
+operational profile testing,運用プロファイルテスト
+impact analysis,影響度分析
+N-switch coverage,Nスイッチカバレッジ
+N-switch testing,N スイッチテスト
+emulator,エミュレータ
+error,エラー
+error seeding,エラーシーディング
+error seeding tool,エラーシーディングツール
+error guessing,エラー推測
+error tolerance,エラー耐性
+LCSAJ,LCSAJ
+LCSAJ coverage,LCSAJカバレッジ
+LCSAJ testing,LCSAJ テスト
+oracle,オラクル
+regression testing,回帰テスト
+entry criteria,開始基準
+entry point,開始点
+analyzability,解析性
+development testing,開発テスト
+recoverability,回復性
+recoverability testing,回復性テスト
+recovery testing,回復テスト
+scalability,拡張性
+scalability testing,拡張性テスト
+confirmation testing,確認テスト
+custom software,カスタムソフトウェア
+coverage,カバレッジ
+coverage item,カバレッジアイテム
+coverage measurement tool,カバレッジ計測ツール
+coverage tool,カバレッジツール
+coverage analysis,カバレッジ分析
+availability,可用性
+adaptability,環境適応性
+robustness,頑健性〔堅牢性〕
+audit,監査
+audit trail,監査証跡
+complete testing,完全テスト
+FALSE-negative result,偽陰性結果
+desk checking,机上チェック
+pseudo-random,擬似乱数
+off-the-shelf software,既製ソフトウェア
+expected outcome,期待結果
+expected result,期待結果
+regulation testing,規程テスト
+functionality,機能性
+functionality testing,機能性テスト
+functional testing,機能テスト
+functional test design technique,機能テスト設計技法
+functional integration,機能統合
+functional requirement,機能要件
+elementary comparison testing,基本比較テスト
+CAST,キャスト
+capture/playback tool,キャプチャ/プレイバックツール
+capture/replay tool,キャプチャ/リプレイツール
+FALSE-positive result,偽陽性結果
+boundary value,境界値
+boundary value coverage,境界値カバレッジ
+boundary value testing,境界値テスト
+boundary value analysis,境界値分析
+co-existence,共存性
+record/playback tool,記録再生ツール
+recorder,記録者
+keyword driven testing,キーワード駆動テスト
+key performance indicator,キーパフォーマンスインジケーター
+concrete test case,具体的テストケース
+classification tree,クラシフィケーションツリー
+classification tree method,クラシフィケーションツリー法
+glass box testing,グラスボックステスト
+experienced-based technique,経験ベースの技法
+experienced-based test design technique,経験ベースのテスト設計技法
+CASE,ケース
+outcome,結果
+result,結果
+defect,欠陥
+Defect Detection Percentage (DDP),欠陥検出率
+defect tracking tool,欠陥追跡ツール
+defect based technique,欠陥ベースの技法
+defect based test design technique,欠陥ベースのテスト設計技法
+defect taxonomy,欠陥分類法
+defect management,欠陥マネジメント
+defect management tool,欠陥マネジメントツール
+defect density,欠陥密度
+defect report,欠陥レポート
+cause-effect graph,原因結果グラフ
+cause-effect graphing,原因結果グラフ法
+cause-effect decision table,原因結果デシジョンテーブル
+cause-effect analysis,原因結果分析
+verification,検証
+high level test case,高位レベルテストケース
+pass/fail criteria,合格/失敗基準
+formal review,公式レビュー
+configuration,構成
+configuration item,構成アイテム
+configuration auditing,構成監査
+configuration management,構成管理
+Configuration management tool,構成管理ツール
+configuration control,構成コントロール
+configuration control board (CCB),構成管理委員会
+configuration identification,構成識別
+configuration testing,構成テスト
+structured walkthrough,構造化ウォークスルー
+structural coverage,構造カバレッジ
+structural testing,構造テスト
+structural test design technique,構造テスト設計技法
+structure-based technique,構造ベース技法
+structure based testing,構造ベーステスト
+suitability,合目的性
+efficiency,効率性
+efficiency testing,効率性テスト
+compatibility testing,互換性テスト
+failure,故障
+failure mode,故障モード
+Failure Mode and Effect Analysis (FMEA),故障モード影響解析
+Failure Mode, EFFECT and Criticality Analysis (FMECA),故障モード影響・致命度解析
+failure rate,故障率
+COTS,COTS
+code,コード
+code analyzer,コードアナライザ
+code coverage,コードカバレッジ
+code-based testing,コードベーストテスト
+compiler,コンパイラ
+component,コンポーネント
+component specification,コンポーネント仕様
+component testing,コンポーネントテスト
+component integration testing,コンポーネント統合テスト
+root cause,根本原因
+root cause analysis,根本原因分析
+resumption criteria,再開基準
+cyclomatic number,サイクロマティック数
+cyclomatic complexity,サイクロマティック複雑度
+re-testing,再テスト
+site acceptance testing,サイト受け入れテスト
+sanity test,サニティテスト
+subpath,サブパス
+qualification,資格認定
+resource utilization,資源利用
+resource utilization testing,資源利用テスト
+system,システム
+system of systems,システムオブシステムズ
+system testing,システムテスト
+system integration testing,システム統合テスト
+precondition,事前条件
+postcondition,事後条件
+feasible path,実行可能パス
+post-execution comparison,実行後比較
+executable statement,実行ステートメント
+infeasible path,実行不可能パス
+actual outcome,実際の結果
+actual result,実際の結果
+fail,失敗
+automated testware,自動化テストウェア
+scenario testing,シナリオテスト
+commercial off-the-shelf software,市販ソフトウェア(COTS)
+simulation,シミュレーション
+simulator,シミュレータ
+learnability,習得性
+completion criteria,終了基準
+exit criteria,終了基準
+exit point,終了点
+severity,重要度
+output,出力
+output value,出力値
+output domain,出力ドメイン
+specification,仕様
+integration testing in the small,小規模統合テスト
+condition,条件
+condition coverage,条件カバレッジ
+condition combination coverage,条件組合せカバレッジ
+condition combination testing,条件組合せテスト
+condition outcome,条件結果
+condition testing,条件テスト
+condition determination coverage,条件判定カバレッジ
+condition determination testing,条件判定テスト
+state transition,状態遷移
+state diagram,状態遷移図
+state transition testing,状態遷移テスト
+state table,状態遷移表
+specification-based testing,仕様ベーステスト
+specification-based test design technique,仕様ベーステスト設計技法
+specification-based technique,仕様ベースの技法
+certification,証明
+scribe,書記
+syntax testing,シンタックステスト〔構文テスト〕
+reliability,信頼性
+reliability testing,信頼性テスト
+confidence test,信頼テスト
+reliability growth model,信頼度成長モデル
+exercised,遂行済み（の物）
+vertical traceability,垂直トレーサビリティ〔垂直追跡性〕
+horizontal traceability,水平トレーサビリティ
+scripting language,スクリプト言語
+scripted testing,スクリプトテスト 
+stub,スタブ
+status accounting,ステータスアカウンティング
+statement,ステートメント
+statement coverage,ステートメントカバレッジ
+statement testing,ステートメントテスト
+storage,ストレージ
+storage testing,ストレージテスト
+stress testing,ストレステスト
+stress testing tool,ストレステストツール
+specified input,スペシファイドインプット
+smoke test,スモークテスト
+thread testing,スレッドテスト
+accuracy,正確性
+control flow,制御フロー
+control flow analysis,制御フロー分析
+control flow graph,制御フローグラフ
+control flow path,制御フローパス
+maturity,成熟度
+static analyzer,静的アナライザ
+static analysis,静的解析
+static analysis tool,静的解析ツール
+static code analyzer,静的コードアナライザ
+static code analysis,静的コード解析
+static testing,静的テスト
+performance,性能
+performance testing,性能テスト
+performance testing tool,性能テストツール
+performance profiling,性能プロファイル
+production acceptance testing,製品受け入れテスト
+safety critical system,セーフティクリティカルシステム
+security,セキュリティ
+security tool,セキュリティツール
+security testing,セキュリティテスト
+security testing tool,セキュリティテストツール
+exhaustive testing,全数テスト
+interoperability,相互運用性
+interoperability testing,相互運用性テスト
+operational environment,操作環境
+operability,操作性
+measurement,測定
+measurement scale,測定尺度
+measure,測定値
+source statement,ソースステートメント
+software,ソフトウェア
+software Failure Mode and EFFECT Analysis (SFMEA),ソフトウェア・故障モード影響解析
+software attack,ソフトウェア攻撃
+software product characteristic,ソフトウェア製品特性
+software test incident,ソフトウェアテストインシデント
+software test incident report,ソフトウェアテストインシデントレポート
+software feature,ソフトウェアフィーチャ
+software Fault Tree analysis (SFTA),ソフトウェア・フォールトツリー解析
+software quality,ソフトウェア品質
+software quality characteristic,ソフトウェア品質特性
+Software Usability Measurement Inventory (SUMI),ソフトウェア有用性測定一覧表
+software life cycle,ソフトウェアライフサイクル
+integration testing in the large,大規模統合テスト
+time behavior,タイムビヘイビア
+dirty testing,ダーティテスト
+validation,妥当性確認
+staged representation,段階表現
+exploratory testing,探索的テスト
+checker,チェック担当
+replaceability,置換性
+suspension criteria,中止基準
+abstract test case,抽象的テストケース
+bespoke software,注文ソフトウェア
+Chow's coverage metrics,Chowのカバレッジメトリクス
+orthogonal array,直交表
+orthogonal array testing,直交表テスト
+low level test case,低位レベルテストケース
+definition-use pair,定義使用ペア
+deliverable,提供品
+daily build,デイリービルド
+deviation,デヴィエーション
+deviation report,デヴィエーションレポート
+conformance testing,適合テスト
+technical review,テクニカルレビュー
+design-based testing,デザインベーステスト
+decision coverage,デシジョンカバレッジ
+decision table,デシジョンテーブル
+decision table testing,デシジョンテーブルテスト
+test,テスト
+testing,テスト
+test item,テストアイテム
+test item transmittal report,テストアイテム送付レポート
+test approach,テストアプローチ
+test incident,テストインシデント
+test incident report,テストインシデントレポート
+test infrastructure,テストインフラ
+testware,テストウェア
+test oracle,テストオラクル
+test coverage,テストカバレッジ
+test environment,テスト環境
+test completion criteria,テスト完了基準
+test technique,テスト技法
+test driven development,テスト駆動型開発
+test plan,テスト計画
+test planning,テスト計画作業
+test case,テストケース
+test case specification,テストケース仕様
+test case suite,テストケーススイート
+test case design technique,テストケース設計技法
+test outcome,テスト結果
+test result,テスト結果
+test log,テスト結果記録
+test logging,テスト結果記録作業
+test comparison,テスト結果比較
+test process,テストプロセス
+test control,テストコントロール
+test cycle,テストサイクル
+test reproducibility,テスト再現性
+test summary report,テストサマリレポート
+test situation,テストシチュエーション
+test execution,テスト実行
+test execution technique,テスト実行技法
+test execution automation,テスト実行自動化
+test execution schedule,テスト実行スケジュール
+test execution tool,テスト実行ツール
+test execution phase,テスト実行フェーズ
+test implementation,テスト実装
+test fail,テスト失敗
+test automation,テスト自動化
+test scenario,テストシナリオ
+test closure,テスト終了作業
+test specification technique,テスト仕様化技法
+test condition,テスト条件
+test specification,テスト仕様書
+test progress report,テスト進捗レポート
+test suite,テストスイート
+test schedule,テストスケジュール
+test script,テストスクリプト
+test stage,テストステージ
+test session,テストセッション
+Test Maturity Model (TMM),テスト成熟度モデル（TMM)
+test Maturity model Integrated (TMMi),テスト成熟度モデル統合
+test design,テスト設計
+test design technique,テスト設計技法
+test design specification,テスト設計仕様
+test design tool,テスト設計ツール
+test set,テストセット
+test strategy,テスト戦略
+test object,テスト対象
+test type,テストタイプ
+test target,テストターゲット
+tester,テスト担当者
+test charter,テストチャータ
+test tool,テストツール
+test procedure,テスト手順
+test procedure specification,テスト手順仕様
+test data,テストデータ
+test generator,テストデータジェネレータ
+test data preparation tool,テストデータ準備ツール
+test driver,テストドライバ
+test input,テスト入力データ
+test objective,テストの目的
+test pass,テストパス
+test harness,テストハーネス
+test performance indicator,テストパフォーマンスインジケータ
+test comparator,テスト比較ツール
+test evaluation report,テスト評価レポート
+test phase,テストフェーズ
+Test Process Improvement (TPI),テストプロセス改善（TPI）
+test basis,テストベース
+test bed,テストベッド
+Test Point Analysis (TPA),テストポイント分析（TPA）
+test policy,テストポリシー
+test management,テストマネジメント
+test management tool,テストマネジメントツール
+test manager,テストマネージャ
+test estimation,テスト見積
+test monitoring,テストモニタリング
+testable requirements,テスト容易化要件
+testability,テスト容易性
+testability review,テスト容易性レビュー
+test requirement,テスト要件
+test run,テストラン
+test run log,テストランログ
+test rig,テストリグ
+test leader,テストリーダ
+test recording,テストレコーディング〔テスト結果記録作業〕
+test record,テストレコード〔テスト結果記録〕
+test level,テストレベル
+test report,テストレポート
+data integrity testing,データ完全性テスト
+data driven testing,データ駆動テスト
+data definition,データ定義
+data flow,データフロー
+data flow analysis,データフロー解析
+data flow coverage,データフローカバレッジ
+data flow testing,データフローテスト
+database integrity testing,データベース完全性テスト
+defect masking,ディフェクトマスキング
+decision testing,デシジョンテスト
+procedure testing,手続きテスト
+dead code,デッドコード
+debugger,デバッガ
+debugging,デバッグ
+debugging tool,デバッグツール
+statistical testing,統計的テスト
+frozen test basis,凍結テストベース
+integration,統合
+integration testing,統合テスト
+concurrency testing,同時処理テスト
+unreachable code,到達不能コード
+equivalence class,同値クラス
+equivalence partition,同値分割
+equivalence partition coverage,同値分割カバレッジ
+equivalence partitioning,同値分割法
+dynamic analysis,動的解析
+dynamic analysis tool,動的解析ツール
+dynamic testing,動的テスト
+dynamic comparison,動的比較
+documentation testing,ドキュメンテーションテスト
+independence of testing,独立性
+top-down testing,トップダウンテスト
+domain,ドメイン
+driver,ドライバ
+traceability,トレーサビリティ
+input,入力
+input value,入力値
+input domain,入力ドメイン
+Capability Maturity Model (CMM),能力成熟度モデル（CMM)
+Capability Maturity Model Integration (CMMI),能力成熟度モデル統合（CMMI)
+hyperlink,ハイパーリンク
+hyperlink tool,ハイパーリンクツール
+bug,バグ
+bug tracking tool,バグ追跡ツール
+bug taxonomy,バグ分類法
+bug report,バグレポート
+hazard analysis,ハザード分析
+version control,バージョンコントロール
+pass,パス〔合格〕
+path,パス
+path coverage,パスカバレッジ
+path sensitizing,パスセンシタイジング
+path testing,パステスト
+back-to-back testing,バックツーバックテスト
+buffer,バッファ
+buffer overflow,バッファオーバーフロー
+partition testing,パーティションテスト
+performance indicator,パフォーマンスインジケータ
+decision,判定
+decision outcome,判定結果
+decision condition coverage,判定条件カバレッジ
+decision condition testing,判定条件テスト
+iterative development model,反復開発モデル
+peer review,ピアレビュー
+comparator,比較ツール
+non-functional testing,非機能テスト
+non-functional test design techniques,非機能テスト設計技法
+non-functional requirement,非機能要件
+informal review,非公式レビュー
+business process-based testing,ビジネスプロセステスト
+big-bang testing,ビッグバンテスト
+negative testing,否定テスト
+bebugging,ビーバギング
+heuristic evaluation,ヒューリスティック評価
+evaluation,評価
+standard software,標準ソフトウェア
+standards testing,標準テスト
+quality,品質
+cost of quality,品質コスト
+quality attribute,品質特性
+quality characteristic,品質特性
+quality assurance,品質保証
+quality management,品質マネジメント
+Function Point Analysis (FPA),ファンクションポイント法
+V-model,V字モデル
+feature,フィーチャ
+field testing,フィールドテスト
+phase test plan,フェーズテスト計画
+fault,フォールト
+Fault Detection Percentage (FDP),フォールト検出率
+fault attack,フォールト攻撃
+fault seeding,フォールトシーディング
+fault seeding tool,フォールトシーディングツール
+Fault Tree Analysis (FTA),フォールトツリー解析
+fault tolerance,フォールトトレランス
+fault masking,フォールトマスキング
+fault density,フォールト密度
+compound condition,複合条件
+multiple condition,複合条件
+multiple condition coverage,複合条件カバレッジ
+multiple condition testing,複合条件テスト
+complexity,複雑度
+anomaly,不正
+non-conformity,不適合
+black-box technique,ブラックボックス技法
+black-box testing,ブラックボックステスト
+black-box test design technique,ブラックボックステスト設計技法
+branch,ブランチ
+branch coverage,ブランチカバレッジ
+branch condition,ブランチコンデション
+branch condition coverage,ブランチコンデションカバレッジ
+branch condition combination coverage,ブランチコンデション組合せカバレッジ
+branch condition combination testing,ブランチコンデション組合せテスト
+branch testing,ブランチテスト
+retrospective meeting,振り返りミーティング
+behavior,振る舞い
+program instrumenter,プログラムインスツルメンタ
+program testing,プログラムテスト
+project,プロジェクト
+project test plan,プロジェクトテスト計画
+project risk,プロジェクトリスク
+process,プロセス
+process improvement,プロセス改善
+process cycle test,プロセスサイクルテスト
+product risk,プロダクトリスク
+blocked test case,ブロックドテストケース
+probe effect,プローブ効果
+pair testing,ペアテスト
+pair programming,ペアプログラミング
+pairwise testing,ペアワイズテスト
+basic block,ベーシックブロック
+basis test set,ベーステストセット
+best practice,ベストプラクティス
+baseline,ベースライン
+beta testing,ベータテスト
+mutation analysis,変異解析
+mutation testing,ミューテーションテスト
+conversion testing,変換テスト
+change control,変更コントロール
+change control board,変更コントロール委員会
+modified condition decision coverage,変更条件判定カバレッジ（MC／DC）
+modified condition decision testing,変更条件判定テスト
+changeability,変更性
+modified multiple condition testing,変更複合条件テスト
+modified multiple condition coverage,変更複合条件カバレッジ
+variable,変数
+benchmark test,ベンチマークテスト
+pointer,ポインタ
+compliance,法令遵守
+compliance testing,法令遵守テスト
+maintainability,保守性
+maintainability testing,保守性テスト
+serviceability testing,保守性テスト
+maintenance testing,保守テスト
+bottom-up testing,ボトムアップテスト
+volume testing,ボリュームテスト
+white-box techniques,ホワイトボックス技法
+white-box testing,ホワイトボックステスト
+white-box test design technique,ホワイトボックステスト設計技法
+milestone,マイルストン
+master test plan,マスターテスト計画
+management review,マネジメントレビュー
+attractiveness,魅力性
+metric,メトリクス
+memory leak,メモリリーク
+maintenance,メンテナンス
+module,モジュール
+module testing,モジュールテスト
+modelling tool,モデリングツール
+moderator,モデレータ
+monitor,モニタ
+monitoring tool,モニタリングツール
+monkey testing,モンキーテスト
+problem,問題
+problem management,問題マネジメント
+problem report,問題レポート
+finite state machine,有限状態機械
+finite state testing,有限状態テスト
+priority,優先度
+user acceptance testing,ユーザ受け入れテスト
+user scenario testing,ユーザシナリオテスト
+user test,ユーザテスト
+usability,ユーザビリティ
+usability testing,ユーザビリティテスト
+use case,ユースケース
+use case testing,ユースケーステスト
+unit,ユニット
+unit testing,ユニットテスト
+unit test framework,ユニットテストフレームワーク
+unit test framework tool,ユニットテストフレームワークツール
+requirement,要件
+requirements phase,要件フェーズ
+requirements-based testing,要件ベーステスト
+requirements management tool,要件マネジメントツール
+predicted outcome,予測結果
+pretest,予備テスト
+random testing,ランダムテスト
+understandability,理解性
+risk,リスク
+risk mitigation,リスク軽減
+risk control,リスクコントロール
+risk identification,リスク識別
+risk analysis,リスク分析
+risk type,リスクタイプ
+risk-based testing,リスクベーステスト
+risk management,リスクマネジメント
+risk level,リスクレベル
+release note,リリースノート
+link testing,リンクテスト
+exception handling,例外処理
+review,レビュー
+reviewer,レビューア
+review tool,レビューツール
+level test plan,レベルテスト計画
+continuous representation,連続表現
+load testing,ロードテスト
+load testing tool,ロードテストツール
+load profile,ロードプロファイル
+robustness testing,ロバストネステスト
+logic-driven testing,論理駆動テスト
+logical test case,論理テストケース
+logic-coverage testing,論理網羅テスト
+Wide Band Delphi,ワイドバンドデルファイ
+wild pointer,ワイルドポインタ

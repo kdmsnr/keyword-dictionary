@@ -1,0 +1,280 @@
+Athena,Athena/アテナ
+access,アクセス
+account,アカウント
+action,アクション
+active,アクティブ
+administrivia,この文書について/付記
+aggregate software,集合ソフトウェア/ソフトウェア集成
+algebra,代数
+algorithm,アルゴリズム
+anonymous ftp,匿名 FTP
+application,アプリケーション
+architecture,アーキテクチャ
+archive,アーカイブ
+array,配列
+asynchronous,非同期
+author,作成者/著者/作者
+avail,利用可能
+axis,軸
+backbone,バックボーン
+base system,基本システム
+binary,バイナリ
+binding,バインディング
+bitmap,ビットマップ
+bitwise-or,ビットごとの論理和
+boot,(システムの) 起動
+boot loader,ブートローダ
+boot sector,ブートセクタ
+browser,ブラウザ
+bug control server,バグコントロールサーバ
+bug horizon,バグホライズン
+bug number,バグ番号
+bug report,バグ報告
+bug request server,バグリクエストサーバ
+bug tracking system,バグ追跡システム
+cartesian,デカルト
+character,文字
+client,クライアント
+close,(バグの) クローズ/解決
+code,[名] コード
+command,コマンド
+command line option,コマンドラインオプション
+command line parameter,コマンドライン引き数
+commercial,商用
+compatible,互換
+compile,コンパイル
+compiler,コンパイラ
+complex number,複素数
+component,構成要素/コンポーネント
+computer,コンピュータ
+conference,カンファレンス
+configuration,設定/構成
+configuration file,設定ファイル
+configure,設定
+conflict,競合 (する)
+control file,制御ファイル
+control information file,制御情報ファイル
+control-file-name,制御ファイル名
+control-information,制御情報
+critical bug,critical バグ/致命的バグ
+Debian,Debian
+Debian Project,Debian プロジェクト
+Debian archive file,Debian アーカイブファイル
+data,データ
+decode,デコード
+decoding,デコーディング
+deconfiguration,設定を無効にする
+deep freeze,ディープフリーズ/完全凍結
+default,デフォルト
+define,定義
+degree,角度
+description ,(パッケージ) 説明 (文)
+dial-up,ダイヤルアップ
+directory,ディレクトリ
+display,[名] ディスプレイ/[動] 表示
+distribute,配布
+distribution,ディストリビューション
+distribution maintainer,ディストリビューションメンテナ
+distributor,配布業者
+document,文書
+documentation,ドキュメンテーション
+driver disk,driver ディスク
+dynamic,動的
+email,電子メール
+encode,エンコード
+encoding,エンコーディング
+engine,エンジン
+environment variable,環境変数
+explorer,エクスプローラ
+FIFO,FIFO
+factorize,因数分解
+file,ファイル
+filesystem tree,ファイルシステム木
+filter,フィルタ
+firewall,ファイアウォール
+fixed bug,fixed バグ/修正済バグ
+flavour,フレーバー
+footer,フッタ
+forgotten by dpkg,dpkg に管理されていない
+format,フォーマット
+fowarded,forwarded/転送済
+fowarded bug,forwarded バグ/転送済バグ
+fraction,分数/有理数
+framework,フレームワーク
+free software,フリーソフトウェア
+freeze,フリーズ/凍結
+front-end,フロントエンド
+GNU,GNU
+grave bug,grave バグ/重大バグ
+group,グループ
+HTML,HTML
+handler,ハンドラ
+header,ヘッダ
+hold,(パッケージの) 変更禁止
+IEEE,IEEE
+IRS,内国税歳入庁
+implement,実装
+important bug,important バグ/重要バグ
+include file,インクルードファイル
+install,インストール
+installed package status database,インストール済みパッケージ状況データベース
+installer,インストーラ
+integer,整数
+integrated system,統合システム
+interactive,インタラクティブ
+interface,インターフェース
+internet,インターネット
+interpreter,インタプリタ
+intranet,イントラネット
+invoke,(プログラムの) 起動
+Java,Java
+JavaScript,JavaScript
+job,ジョブ
+keyboard,キーボード
+Linux,Linux
+language,言語
+launch,(プログラムの) 起動
+legend,凡例
+library,ライブラリ
+linear,線型
+link,リンク
+list,一覧/メーリングリスト
+loader,ローダ
+logarithmetic,対数
+MIME,MIME
+Motif,Motif
+machine,??何がいいでしょう
+mail,メール
+mailing list,メーリングリスト
+maintainer,開発者/メンテナ
+maintainer script,管理スクリプト
+maker,メーカー
+man page,man ページ
+manager,マネージャ
+master,マスター
+master boot record,マスターブートレコード
+master file,マスターファイル
+matrix,行列
+medium-level tool,中レベルツール
+message,メッセージ
+mirror,ミラー
+mirror site,ミラーサイト
+modem,モデム
+mouse,マウス
+network,ネットワーク
+network interface,ネットワークインターフェース
+non-free,フリーではない/非フリーの/non-free
+normal bug,normal バグ/通常バグ
+Official CD,公式 CD
+Open Look,Open Look
+object,オブジェクト
+object-oriented,オブジェクト指向
+open,(バグの) オープン
+operating system,オペレーティングシステム
+option,オプション
+original software,オリジナルのソフトウェア
+outstanding bug,未解決バグ
+PostScript,PostScript
+pack,(アーカイブの) 作成
+package,パッケージ
+package maintainer,パッケージ開発者
+parameter,パラメータ
+permission,許可
+pipe,パイプ
+pixel,ピクセル
+pointer,ポインタ
+polar,極
+polynomial,多項式
+port,[名] 移植 (版)/[動] ポート
+premission,パーミッション
+process,プロセス
+program,プログラム
+programmer,プログラマ
+protocol,プロトコル
+proxy,プロキシ
+pseudo header,擬似ヘッダ
+pseudo-header,擬似ヘッダ
+public domain,パブリックドメイン
+purge,完全削除
+quota,クォータ
+RFC,RFC
+radian,ラジアン
+raster,ラスタ
+real,[名] 実数
+reassign,reassign/再指定
+release,リリース
+release critical bug,リリースクリティカルバグ
+release critical bug horizon,リリースクリティカルバグホライズン
+remove,削除
+reopen,再オープン
+report,レポート/報告
+rescue disk,rescue ディスク
+resource,リソース/資源
+result,結果
+revise,改訂
+root disk,root ディスク
+royalty,著作権使用料
+runtime,ランタイム
+schedule,スケジュール
+script,スクリプト
+security,セキュリティ
+serial,シリアル
+server,サーバ
+service,サービス
+session,セッション
+severity level,severity レベル/重要度レベル
+share,共有
+shell,シェル
+signal,シグナル
+simulate,シミュレート
+simulation,シミュレーション
+simulator,シミュレータ
+site,サイト
+smooth,スムーズ
+socket,ソケット
+source,ソース
+specification,仕様/指定
+spread sheet,スプレッドシート
+standard,標準
+standard input,標準入力
+standard output,標準出力
+static,静的
+status,ステータス
+subclass,[名] サブクラス/[動] サブクラス化
+submitter,提出者
+suggest,提案
+suite,スイート
+support,サポート
+synchronous,同期
+syntax error,文法エラー
+system,システム
+The Debian policy manual,Debian ポリシーマニュアル
+t care,無視する
+tarball,tarball
+tensor,テンソル
+terminal,端末
+third party,サードパーティ
+transfer,転送
+transparent,透過
+UNIX,UNIX
+US,US/アメリカ合衆国
+Usenet,Usenet
+unpack,(アーカイブの) 展開
+upgrade,アップグレード
+upload,アップロード
+upstream,上流/アップストリーム
+uptime,連続使用時間
+user,ユーザ
+user-friendly,ユーザフレンドリ
+utility,ユーティリティ
+vendor,ベンダ
+version,バージョン
+virtual ,仮想
+Windows,Windows
+web,ウェブ
+widget,ウィジェット
+wildchars,ワイルド文字
+window,ウィンドウ
+wishlist bug,wishlist バグ/要望
+X11,X11
+Xview,Xview
